@@ -1,0 +1,27 @@
+{
+  "name": "hapijs-poc",
+  "version": "0.0.0",
+  "description": "poc using hapijs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhlas-firlana/hapijs.git"
+  },
+  "keywords": [
+    "hapijs"
+  ],
+  "author": "ikhlas firlana <ifirlana@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhlas-firlana/hapijs/issues"
+  },
+  "homepage": "https://github.com/ikhlas-firlana/hapijs#readme",
+  "dependencies": {
+    "hapi": "^18.0.0",
+    "inert": "^5.1.2"
+  }
+}
